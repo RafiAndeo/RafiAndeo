@@ -6,3 +6,7 @@
 </p status>
 
 -------------------
+
+## Stats
+![RafiAndeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafiAndeo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafiAndeo&layout=compact&theme=radical)](https://github.com/RafiAndeo/github-readme-stats)
