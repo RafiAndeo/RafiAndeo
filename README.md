@@ -16,6 +16,7 @@
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=RafiAndeo&show_icons=true&theme=github_dark">
 </p>
+
 <hr>
 <br>
 
@@ -40,5 +41,6 @@
 
 <h3 align="center" id="begin"><samp>Connect with me &nbsp;🔗</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/muhammad-rafi-andeo-praja-192a4421b/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin" </a>
+<a href="https://gitlab.com/rafiandeo26" target="_blank"> <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" </a>
 
 </details>
