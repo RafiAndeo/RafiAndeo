@@ -4,16 +4,15 @@
 <details align="center" id="details">
 <div align="center">
 
-## Github Stats &nbsp;📊
+<h3 align="center" id="begin"><samp>Github Stats &nbsp;📊</h3>
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=RafiAndeo&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=RafiAndeo&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
 
-## Most Used Languages 📚
-
+<h3 align="center" id="begin"><samp>Most Used Languages 📚</h3>
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiAndeo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact">
@@ -34,10 +33,5 @@
 
 <hr>
 <br>
-
-## Frameworks & Libraries 📦 :
-
-![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 
 </details>
