@@ -1,6 +1,13 @@
 <h3 align="center" id="begin"><samp> Hello, My name is <b><a>Muhammad Rafi Andeo Praja</a> </b></h3>
-<h3 align="center" id="begin"><samp>Backend Engineer, Machine Learning</h3>
+<h3 align="center" id="begin"><samp>Computer Science Student, Backend Engineer, Machine Learning</h3>
 
+<div align="center">
+<h3 id="spotify-playing-"><samp>Spotify Playing 🎧</h3>
+<p>
+  <a href="https://open.spotify.com/user/0le0agog12qwctomtotays88m">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=0le0agog12qwctomtotays88m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Snowflake Spotify Playing" width="350" />
+  </a>
+</p>
 <details align="center" id="details">
 <div align="center">
 
