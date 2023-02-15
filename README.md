@@ -6,18 +6,11 @@
 </p status>
 
 <h3 align="center">Currently Majoring in Computer Science, Telkom University <br> <br>
-  <a href="https://github.com/RafiAndeo" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/RafiAndeo?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/RafiAndeo" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=RafiAndeo&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
   </h3> 
 
 <div align="center">
   
-<h2 align="center">
-My Current Workstation Specification </h2>
+## Workstation
 
 <div align="center">
 	
@@ -31,7 +24,8 @@ My Current Workstation Specification </h2>
 
 </div>
 
-<h2>Connect with me!</h2>
- 
+ ## Contact
+<a href="https://discord.gg/pc9Zxxm9">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+</a>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-rafi-andeo-praja-192a4421b/)
 <br> <br>
