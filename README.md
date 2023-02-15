@@ -1,6 +1,7 @@
-<h2 align="center" id="begin"><samp> Hello, My name is <b><a>Muhammad Rafi Andeo Praja</a> </b></h2>
+<h3 align="center" id="begin"><samp> Hello, My name is <b><a>Muhammad Rafi Andeo Praja</a> </b></h3>
+<h3 align="center" id="begin"><samp>Backend Engineer, Machine Learning</h3>
 
-
+<details align="center" id="details">
 <div align="center">
 
 ## Github Stats &nbsp;📊
@@ -38,3 +39,5 @@
 
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+
+</details>
