@@ -27,16 +27,13 @@
 <p align='center'>
 </p>
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter)
+<p align="center"> <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=python&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=go&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=php&sort=" target="_blank"> <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter" </a>
 
 <hr>
 <br>
