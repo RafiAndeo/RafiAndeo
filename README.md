@@ -19,10 +19,10 @@
 <hr>
 <br>
 
-<h3 align="center" id="begin"><samp>Most Used Languages 📚</h3>
+<h3 align="center" id="begin"><samp>Most Used Languages &nbsp;📚</h3>
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiAndeo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiAndeo&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact">
 </p>
 <p align='center'>
 </p>
@@ -37,5 +37,8 @@
 
 <hr>
 <br>
+
+<h3 align="center" id="begin"><samp>Connect with me &nbsp;🔗</h3>
+<p align="center"> <a href="https://www.linkedin.com/in/muhammad-rafi-andeo-praja-192a4421b/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin" </a>
 
 </details>
