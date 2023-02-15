@@ -11,7 +11,7 @@
 <details align="center" id="details">
 <div align="center">
 
-<h3 align="center" id="begin"><samp>Github Stats &nbsp;📊</h3>
+<h3 align="center" id="begin"><samp>Github Stats 📊</h3>
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=RafiAndeo&show_icons=true&theme=github_dark">
@@ -20,7 +20,7 @@
 <hr>
 <br>
 
-<h3 align="center" id="begin"><samp>Most Used Languages &nbsp;📚</h3>
+<h3 align="center" id="begin"><samp>Most Used Languages 📚</h3>
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiAndeo&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact">
@@ -39,8 +39,9 @@
 <hr>
 <br>
 
-<h3 align="center" id="begin"><samp>Connect with me &nbsp;🔗</h3>
+<h3 align="center" id="begin"><samp>Connect with me 🔗</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/muhammad-rafi-andeo-praja-192a4421b/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin" </a>
 <a href="https://gitlab.com/rafiandeo26" target="_blank"> <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" </a>
-
+<a href="https://www.hackerrank.com/rafiandeo26" target="_blank"> <img src="https://img.shields.io/badge/-HackerRank-000000?style=flat&logo=hackerrank" </a>
+  
 </details>
