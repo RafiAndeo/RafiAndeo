@@ -5,8 +5,7 @@
   </a>
 </p status>
 
-<h3 align="center">Currently Majoring in Computer Science, Telkom University <br> <br>
-  </h3> 
+-------------------
 
 <div align="center">
   
@@ -20,7 +19,7 @@
 	
 ![GPU](https://img.shields.io/badge/NVIDIA-GeForce_RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
-
+-------------------
 
 </div>
 
@@ -29,3 +28,5 @@
 </a>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-rafi-andeo-praja-192a4421b/)
 <br> <br>
+
+-------------------
