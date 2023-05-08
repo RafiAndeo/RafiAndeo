@@ -41,8 +41,7 @@
 
 <h3 align="center" id="begin"><samp>Connect With Me 🔗</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/muhammad-rafi-andeo-praja-192a4421b/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin" </a>
-<a href="https://gitlab.com/rafiandeo26" target="_blank"> <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" </a>
-<a href="https://stackoverflow.com/users/21217848/muhammad-rafi-andeo-praja" target="_blank"> <img src="https://img.shields.io/badge/-Stack_Overflow-000000?style=flat&logo=stackoverflow" </a>
+<a href="https://www.instagram.com/rafi.andeo/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram" </a>
 
 <hr>
 <br>  
