@@ -35,7 +35,7 @@
 <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=php&sort=" target="_blank"> <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" </a>
 <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" </a>
 <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Jupyter_Notebook-000000?style=flat&logo=jupyter" </a>
-<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://img.shields.io/badge/-java-000000?style=flat&logo=openjdk" </a>
+<a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk" </a>
 
 <hr>
 <br>
