@@ -28,7 +28,7 @@
 <p align='center'>
 </p>
 
-<p align="center"> <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=python&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" </a>
+<p align="center"> <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=python&sort=" target="_blank"> <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54" </a>
 <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript" </a>
 <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=go&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Go-000000?style=flat&logo=go" </a>
 <a href="https://github.com/RafiAndeo?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"> <img src="https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript" </a>
