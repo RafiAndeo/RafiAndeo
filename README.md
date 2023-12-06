@@ -2,12 +2,6 @@
 <h3 align="center" id="begin"><samp>Computer Science Student, Backend Engineer, Machine Learning, Quality Assurance</h3>
 
 <div align="center">
-<h3 id="spotify-playing-"><samp>Spotify Playing 🎧</h3>
-<p>
-  <a href="https://open.spotify.com/user/31jgelqr34d2p6l5qnc42laaqogq">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jgelqr34d2p6l5qnc42laaqogq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Snowflake Spotify Playing" width="350" />
-  </a>
-</p>
 <details align="center" id="details">
 <div align="center">
 
