@@ -1,5 +1,5 @@
 <h3 align="center" id="begin"><samp> Hello, My name is <b><a>Muhammad Rafi Andeo Praja</a> </b></h3>
-<h3 align="center" id="begin"><samp>Computer Science Student, Backend Engineer, Machine Learning, Quality Assurance</h3>
+<h3 align="center" id="begin"><samp>Quality Assurance Tester at Snap Innovations Pte Ltd</h3>
 
 <div align="center">
 <details align="center" id="details">
